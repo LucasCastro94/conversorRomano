@@ -1,0 +1,43 @@
+*{
+     -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+input{
+    border-radius: 30px;
+    width: 200px;
+    height: 10px;
+    border: 0px ;
+    padding: 8px;
+    outline: none;
+    
+}
+
+.btn{
+    width: 100px;
+    height: 20px;
+    background-color: black;
+    color:white;
+    transition: 0.5s;
+    border-radius: 16px;
+    padding:0px;
+ 
+}
+
+
+
+.btn:hover{
+    background-color: green;
+}
+
+.container
+{
+ display:flex;
+ justify-content: center;
+ background: #bac5dc;
+ width: 100vw;
+ height: 100vh;
+}
