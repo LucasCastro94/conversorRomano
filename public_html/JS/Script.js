@@ -45,7 +45,7 @@ const mapping = {
                         , 'MMMM' //4000
 		]
 	};
-	//Obs número maximo é 1999
+	//Obs número maximo é 4000
 	
         
 	function toRoman(input){		
